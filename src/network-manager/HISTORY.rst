@@ -2,6 +2,11 @@
 
 Release History
 ===============
+
+2.0.1
++++++
+* Fix Post commit issues for different config types (https://github.com/Azure/azure-cli/issues/31882)
+
 2.0.0
 +++++
 * Modify cmd `az network manager routing-config`
